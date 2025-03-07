@@ -28,3 +28,4 @@ How an organization makes decisions, based on the lessons of Time and Change and
 # The second part of the text talks about how sustainable a code must be to face the changes that time can make and the evolution of programming, being one of the things that a software engineer must think about before making a decision about a project.
 
 
+
