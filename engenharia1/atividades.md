@@ -41,10 +41,9 @@ Modularidade x Desempenho - Ao gerar métodos e classes para manter a organizaç
 Gera uma reflexão sobre o entendimento da entrega, ao invés de entregar uma fração de algo perfeito mas inutilizavel, não é tão eficiente quanto entregar algo básico, porém utilizado
 
  # Atividade 5
-
-## Classe_Livro
-
 ```java
+
+// Classe_Livro //
 package biblioteca;
 
 public class Livro {
@@ -72,8 +71,8 @@ public class Livro {
         this.isbn = isbn;
     }
 }
-java```
-## Classe_Biblioteca
+
+// Classe_Biblioteca //
 
 package biblioteca;
 
@@ -111,7 +110,7 @@ public class Biblioteca {
     }
 }
 
-## Classe_BibliotecaTeste
+// Classe_BibliotecaTeste //
 
 package biblioteca;
 
