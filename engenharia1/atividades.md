@@ -7,7 +7,7 @@ The terms “programming” and “software engineering” have been used interc
  
 Unlike those more established engineering professions, current software engineering theory or practice is not nearly as rigorous. Aeronautical engineers must follow rigid guidelines and practices, because errors in their calculations can cause real damage; programming, on the whole, has traditionally not followed such rigorous practices. But, as software becomes more integrated into our lives, we must adopt and rely on more rigorous engineering methods. We hope this book helps others see a path toward more reliable software practices.
 
-*Answer : When we talk about programming or computer science, we are only talking about the tip of the iceberg in the world of technology. When we say "software engineering", we are talking about the structural part of the code, the theoretical part.*
+## *Answer : When we talk about programming or computer science, we are only talking about the tip of the iceberg in the world of technology. When we say "software engineering", we are talking about the structural part of the code, the theoretical part.*
 
  # Atividade 2
 Programming Over Time
@@ -27,7 +27,7 @@ Trade-offs and Costs
 How an organization makes decisions, based on the lessons of Time and Change and Scale and Growth
 
 
-*Answer : The second part of the text talks about how sustainable a code must be to face the changes that time can make and the evolution of programming, being one of the things that a software engineer must think about before making a decision about a project.*
+## *Answer : The second part of the text talks about how sustainable a code must be to face the changes that time can make and the evolution of programming, being one of the things that a software engineer must think about before making a decision about a project.*
 
 
  # Atividade 3 
